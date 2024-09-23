@@ -1,5 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1411610158/photo/multi-colored-programming-language-source-code-design-example-front-view-composition-on-a.jpg?s=612x612&w=0&k=20&c=8f8J6Rw8HTRbWbSjeLBt33IT0o3T9Hpt07c4SnUwkbU=">
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" height="145" src="https://media.istockphoto.com/id/1411610158/photo/multi-colored-programming-language-source-code-design-example-front-view-composition-on-a.jpg?s=612x612&w=0&k=20&c=8f8J6Rw8HTRbWbSjeLBt33IT0o3T9Hpt07c4SnUwkbU=">
 🔭 I’m currently working on Devops Technologies<br>👯 I’m looking to collaborate on Open source<br>🤝 I’m looking for help with flutter programming<br>🌱 I’m currently learning DSA<br>
 
 

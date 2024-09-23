@@ -2,7 +2,7 @@
 <h1 align="center"> Hi🫰 i am Sid here</h1>
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" height="145" src="xT9IgzoKnwFNmISR8I.webp">
+<img align="right" alt="Coding" width="400" height="140" src="xT9IgzoKnwFNmISR8I.webp">
 🔭 I’m currently working on Devops Technologies<br>👯 I’m looking to collaborate on Open source<br>🤝 I’m looking for help with flutter programming<br>🌱 I’m currently learning DSA<br>
 
 

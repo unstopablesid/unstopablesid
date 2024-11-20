@@ -1,3 +1,6 @@
+<a href="https://rishavchanda.io">
+    <img src="Untitled design.png" alt="Header Image" style="width: 100%; height: auto;">
+</a>
 
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack<br><br>🌱 I’m currently learning Flutter<br><br>👯 I’m looking to collaborate on Open source<br><br>🤝 I’m looking for help with UI/UX design<br><br>💬 Ask me about python<br><br>📫 How to reach me Mrsidharth2004@gmail.com

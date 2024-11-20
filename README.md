@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-    <img src="Untitled design.png" alt="Header Image" style="width: 100%; height: auto;">
+    <img src="Untitled design.png" style="width: 100%; height: auto;">
 </a>
 
 # 💫 About Me:

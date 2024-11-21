@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-    <img src="poster.png" style="width: 100%; height: auto;">
+    <img src="Animation.gif.gif" style="width: 100%; height: auto;">
 </a>
 
 # 💫 About Me:
